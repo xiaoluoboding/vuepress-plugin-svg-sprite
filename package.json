@@ -1,0 +1,29 @@
+{
+  "name": "vuepress-plugin-svg-sprite",
+  "version": "0.1.0",
+  "description": "SVG Sprite plugin for Vuepress",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoluoboding/vuepress-plugin-svg-sprite.git"
+  },
+  "keywords": [
+    "vuepress",
+    "plugin",
+    "vuepress-plugin",
+    "svg",
+    "svg-icons",
+    "svg-sprite",
+    "svgo"
+  ],
+  "author": "xiaoluoboding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaoluoboding/vuepress-plugin-svg-sprite/issues"
+  },
+  "homepage": "https://github.com/xiaoluoboding/vuepress-plugin-svg-sprite#readme",
+  "devDependencies": {
+    "svg-sprite-loader": "^4.2.1",
+    "svgo-loader": "^2.2.1"
+  }
+}
